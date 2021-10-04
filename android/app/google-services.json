@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "184475159062",
+    "project_id": "schapp-10f79",
+    "storage_bucket": "schapp-10f79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184475159062:android:28b328e80c0f48c5af4337",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184475159062-782c9oqk9p0bj7u06m0j2v09fpb8odi4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABJ3XO8WxyoXxNyusYuUh19fItSNUuot8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184475159062-782c9oqk9p0bj7u06m0j2v09fpb8odi4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
