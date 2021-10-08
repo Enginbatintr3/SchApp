@@ -1,7 +1,7 @@
 # SchApp V1
 
 <html> <img src="https://github.com/phoenixen/SchApp/blob/main/screen/Screenshot_1633363614.png" height:"200px"> 
-<img src="https://github.com/phoenixen/SchApp/blob/main/screen/Screenshot_1633363622.png" height:"200px"> </html<
+<img src="https://github.com/phoenixen/SchApp/blob/main/screen/Screenshot_1633363622.png" height:"200px"> </html>
 
 ![](https://github.com/phoenixen/SchApp/blob/main/screen/Screenshot_1633363622.png)
 
