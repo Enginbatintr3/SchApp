@@ -1,8 +1,8 @@
 # SchApp V1
 
-<img src="https://github.com/phoenixen/SchApp/blob/main/screen/Screenshot_1633363614.png" height:"100px">
+![](https://github.com/phoenixen/SchApp/blob/main/screen/Screenshot_1633363614.png)
 
-<img src="https://github.com/phoenixen/SchApp/blob/main/screen/Screenshot_1633363622.png" height:"100px"> 
+![](https://github.com/phoenixen/SchApp/blob/main/screen/Screenshot_1633363622.png)
 
 
 ![](https://github.com/phoenixen/SchApp/blob/main/screen/Screenshot_1633363622.png)
