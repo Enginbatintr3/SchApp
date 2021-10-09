@@ -2,7 +2,6 @@
 
 ![](https://github.com/phoenixen/SchApp/blob/main/screen/Screenshot_1633363614.png)
 
-![](https://github.com/phoenixen/SchApp/blob/main/screen/Screenshot_1633363622.png)
 
 
 ![](https://github.com/phoenixen/SchApp/blob/main/screen/Screenshot_1633363622.png)
